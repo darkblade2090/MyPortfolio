@@ -13,8 +13,7 @@ class Resume extends Component {
           <Cell col={4}>
             <div style={{textAlign: 'center'}}>
               <img
-                src="https://media-exp1.licdn.com/dms/image/C5603AQEZFU-VVQoDrg/profile-displayphoto-shrink_200_200/0/1599484982179?e=1632960000&v=beta&t=CdeaNv3vLrK7c2Nstvyok3PcB1s9gBRWxGq1ia2tUYA"
-                alt="avatar"
+                src="https://eelweb.herokuapp.com/images/photos/YashKumar.jpg"
                 style={{height: '200px'}}
                  />
             </div>
